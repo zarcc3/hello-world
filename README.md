@@ -1,3 +1,2 @@
 # hello-world
-
-I create a new feature.
+a rookie exercise
